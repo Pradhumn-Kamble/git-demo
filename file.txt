@@ -3,3 +3,5 @@ Changes from footer branch.
 Changes from branch_child
 
 api code branch_child
+
+fixing some bug
